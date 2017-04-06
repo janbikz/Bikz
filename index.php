@@ -6,12 +6,12 @@
  <?php 
   
 $txt1 = "Hello World";
-$txt2 = "App by Bikram Dahal";
+$txt2 = " by Bikram Dahal";
 $x = 5;
 $y = 4;
 
 echo "<h2>$txt1</h2>";
-echo "Study PHP at $txt2<br>";
+echo "This app is created $txt2<br>";
 echo $x + $y;
 
   ?> 
